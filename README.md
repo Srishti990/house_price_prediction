@@ -28,4 +28,4 @@ This project is a machine learning model designed to predict house prices using 
     pandas
     scikit-learn
     matplotlib
-    seaborn
+    seaborn
